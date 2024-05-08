@@ -1,1 +1,4 @@
-this is the shell script
+#!/bin/bash
+
+echo "Hi Ramu"
+echo "Hi"
